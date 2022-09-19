@@ -21,3 +21,18 @@ I prefer my project to be used on iPhone 12 pro max simulator.As it is the best 
 
 Thank you Apple for providing this opportunity.
 And I will make this app more practical with more features and realese it on app store for the world to use and learn from it.
+
+# PRIVACY-PA
+A story based educational app for kids to learn about digital/online Privacy. Includes fun games, comprehensive activities plus a fun and wise GrandPa. The App is called PrivacyPa and is very engaging while teaching children important life lessons. Will be adding more features and UI elements in the future. This is the project I submitted for 2022 Swift Student Challenge.
+
+# App Icon
+
+<img src ="https://github.com/Dishant10/Swift-Student-Challenge/blob/main/PRIVACY.png" width="300" height="300">
+
+# Video Demo
+
+![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/84343829/191071813-5c671589-d23e-471f-a0a2-1fa5b4d02e4a.gif)
+
+<br/>
+
+![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/84343829/191073586-5daac8ad-7bc3-416d-8ae0-ee853a52301a.gif)
